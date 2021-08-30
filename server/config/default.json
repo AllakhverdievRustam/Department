@@ -1,0 +1,6 @@
+{
+  "dbConfig": {
+    "port": 4000,
+    "urlMongo": "mongodb+srv://Rustam:1234qwer@clusterdepartment.uwos2.mongodb.net/Department?retryWrites=true&w=majority"
+  }
+}
